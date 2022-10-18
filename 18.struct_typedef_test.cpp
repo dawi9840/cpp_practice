@@ -57,4 +57,5 @@ int main()
 {
     struct_test();
     typedef_test();
+    return 0;
 }
